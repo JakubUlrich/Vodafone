@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LanguageInjectionConfiguration">
+    <injection language="selenium-class" injector-id="java">
+      <display-name>Selenium Element Class (org.openqa.selenium)</display-name>
+      <place><![CDATA[psiMethod().withName("className").withParameters().definedInClass("org.openqa.selenium.support.FindBy")]]></place>
+      <place disabled="true"><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("className").withParameters("java.lang.String").definedInClass("org.openqa.selenium.By"))]]></place>
+    </injection>
+  </component>
+</project>
