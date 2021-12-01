@@ -43,7 +43,7 @@ public class MainPageTest {
         $(byText("Ne, chci telefon bez tarifu")).click();
         sleep(10000);
         // Step 6
-        $(byText("Samsung Galaxy Z Flip3 5G 256 GB, černá")).click();
+        $(byText("Samsung Galaxy Z Flip3 5G 128 GB, černá")).click();
         // Step 7
         $(byText("Koupit telefon bez tarifu")).click();
         // Step 8
